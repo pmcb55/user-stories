@@ -7,7 +7,7 @@ are generally of the form:
 > As a *type-of-user*, I want to *some-goal* so that *some-reason*.
 
 To submit such a story, [open an issue](https://github.com/solid/user-stories/issues/new), and put the user story itself as the title. You may elaborate on it in the text, but strive to make the idea succinct enough to fit in that single line. 
-Ideas that aren't fitting very well in this short format or need discussing first can be submitted [to the forum](https://forum.solidproject.org/c/1-about-solid/app-communities).
+Ideas that don't fit very well in this short format, or that you feel need discussion first, can be submitted [to the forum](https://forum.solidproject.org/c/1-about-solid/app-communities).
 
 The idea is that developers and architects can use these stories in their development efforts. 
 
@@ -21,7 +21,7 @@ the story
 
 Other things may require new functionality from the server, for example:
 
-> As a father, I want to set up a server for my family and only them,
+> As a parent, I want to set up a server for my family and only for them,
 > retaining some control of my children's accounts, to keep them safe
 > on the Web. 
 
